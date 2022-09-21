@@ -1,0 +1,40 @@
+
+.img-sobre-nos {
+    padding: 0.5rem 0px 2rem 0px;
+}
+
+.nossos-projetos__titulo, .nossos-projetos__texto {
+    padding-left: 1rem;
+}
+h1, h2, h3 {
+    font-weight: bolder;
+}
+.depoimento-clientes__titulo {
+    background-color: rgb(24, 24, 116);
+    color: white;
+    margin-bottom: 0px;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+.contato-dados {
+    position: relative;
+}
+
+.contato-dados__list-selecao {
+    position: absolute;
+    right: 1.5rem;
+    bottom: 5rem;
+    width: 50%;
+}
+.rodape {
+    background-color: rgb(80, 80, 80);
+    color: white;
+    padding-top: 1rem;
+    margin-top: 2rem;
+    
+    
+}
+.rodape address {
+    line-height: 2.5rem;
+}
