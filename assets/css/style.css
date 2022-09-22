@@ -1,4 +1,46 @@
 
+.navbar {
+    margin-bottom: 0px;
+}
+
+.topcasafina {
+    background-image: url(../img/castelo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0px auto;
+    height: 95vh; 
+    max-height: 700px;
+    width: 100vw;
+    max-width: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+.convite {
+    width: 70%;
+    max-width: 600px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 1.5em;
+    border-radius: 20px;
+    box-sizing: border-box;
+    
+}
+.topcasafina__titulo {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+.topcasafina__texto {
+    margin-bottom: 1.5em;
+    font-weight: bolder
+}
+.convite button {
+    font-weight: bolder;
+}
+
 .img-sobre-nos {
     padding: 0.5rem 0px 2rem 0px;
 }
